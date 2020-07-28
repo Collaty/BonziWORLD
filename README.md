@@ -2,7 +2,7 @@
 
 This project has been forked because we want a backup of this.
 All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. Just try to put me somewhere in the credits.
-# Credits to heyjoeway, because i forked his archive.
+ Credits to heyjoeway, because i forked his archive.
 
 ## Dependencies
 - Node.js and npm
@@ -40,3 +40,5 @@ I'm not responsible if you screw up anything with your computer while setting th
 
 ## License
 MIT.
+## A little Notice.
+I do not want hate if your bonziworld is just not waking up, or just loading forever, just ask host, Ok? if i just screw up your computer. if the above commands are not going to work.
