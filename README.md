@@ -2,6 +2,7 @@
 
 This project has been forked because we want a backup of this.
 All the source code for the server and client is publically available here. If you want to run your own BonziWORLD, by all means go ahead. Do whatever you'd like with this code. Just try to put me somewhere in the credits.
+# Credits to heyjoeway, because i forked his archive.
 
 ## Dependencies
 - Node.js and npm
